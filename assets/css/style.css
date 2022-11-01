@@ -39,8 +39,9 @@
     height: 300px;
 }
 
-.aside1 {
+.nav {
     background: hotpink;
+    height: 75px;
 }
 
 .aside2 {
@@ -60,7 +61,7 @@ body h1 {
         flex:3;
     }
 
-    .aside1 {
+    .nav {
         order:1;}
 
     .aside2 {
