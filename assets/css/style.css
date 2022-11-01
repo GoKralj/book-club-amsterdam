@@ -94,6 +94,20 @@
     height:300px;
     float:left;
     margin-left:30px;
+    border: 2px white solid;
+}
+
+.aside2 div h4 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 110%;
+
+}
+
+.aside2 div h3 {
+    font-family: 'Noto Sans', sans-serif;
+    text-transform: uppercase;
+    font-size: 150%;
+
 }
 
 /*fonts*/
