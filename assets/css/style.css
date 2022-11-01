@@ -68,6 +68,11 @@
     filter:drop-shadow(0 2px 4px black);
 }
 
+#active {
+    color:white;
+    filter:drop-shadow(0 2px 4px black);
+}
+
 .aside2 {
     background: violet;
 }
