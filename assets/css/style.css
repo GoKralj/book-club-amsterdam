@@ -28,7 +28,7 @@
 }
 
 .footer {
-    background: gold;
+    background: white;
     height: 80px;
 }
 
@@ -182,4 +182,9 @@ body h1 {
     list-style-type: none;
     margin-left:40px;
     margin-right: 40px;
+}
+
+.footer a {
+    color:black;
+    font-size: 110%;
 }
