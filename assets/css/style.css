@@ -10,3 +10,13 @@
     flex: 1 100%;
     border-radius: 10px;
 }
+
+.header {
+    background: red;
+    height: 300px;
+}
+
+.footer {
+    background: gold;
+    height: 80px;
+}
