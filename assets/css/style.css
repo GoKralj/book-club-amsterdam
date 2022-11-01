@@ -47,6 +47,12 @@
     background: violet;
 }
 
+/*fonts*/
+
+body h1 {
+    font-family: 'Noto Sans', sans-serif;
+}
+
 /*media querie*/
 
 @media all and (min-width: 800px) {
