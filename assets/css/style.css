@@ -34,7 +34,12 @@
 
 .main {
     text-align: center;
-    background: url('../images/main-image.webp') no-repeat center center;
+    background-image: url('../images/main-image.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
     font-size: 24px;
     height: 600px;
 }
@@ -74,7 +79,10 @@
 }
 
 .aside2 {
-    background: violet;
+    background-image: url(../images/library-image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
     height:300px;
 }
 
