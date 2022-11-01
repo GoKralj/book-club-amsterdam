@@ -174,3 +174,12 @@ body h1 {
     font-family: 'Work Sans', sans-serif;
     font-size:110%;
 }
+
+/*footer icons*/
+
+.footer li {
+    display: inline;
+    list-style-type: none;
+    margin-left:40px;
+    margin-right: 40px;
+}
