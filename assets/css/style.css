@@ -40,7 +40,7 @@
 }
 
 .nav {
-    background: hotpink;
+    background: gold;
     font-size:200%;
     font-family: 'Noto Sans', sans-serif;
     text-transform: uppercase;
@@ -52,8 +52,13 @@
     text-align: center;
     display: inline;
     margin-left:40px;
+    margin-right:40px;
     list-style-type: none;
 
+}
+
+.nav a {
+    text-decoration: none;
 }
 
 .aside2 {
