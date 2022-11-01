@@ -41,9 +41,9 @@
 
 .nav {
     background: hotpink;
-    height: 75px;
-    font-size:110%;
+    font-size:200%;
     font-family: 'Noto Sans', sans-serif;
+    text-transform: uppercase;
 }
 
 /* nav links */
