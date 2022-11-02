@@ -275,3 +275,7 @@ footer {
     text-align: center;
     font-weight: bold;
 }
+
+.locations-list h2 {
+    font-family: 'Noto Sans', sans-serif;
+}
