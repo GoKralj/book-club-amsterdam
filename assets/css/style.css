@@ -94,6 +94,7 @@
     width:31%;
     height:300px;
     float:left;
+    
     border: 2px white solid;
     
 }
@@ -243,16 +244,16 @@ footer {
 #form-section {
     clear: left;
     background: url('../images/signup-form-background.jpg');
-    min-height: 900px;
+    min-height: 400px;
     background-size: cover;
     background-position: center;
 }
 
 #form-signup {
-   max-width: 400px;
+   max-width: 200px;
    position: absolute;
-   margin-top: 10%;
-   margin-left: 40%;
+   margin-top: 20px;
+   margin-left: 10px;
    text-align: left;
    background-color: rgb(255, 255, 255, 0.7);
    padding: 30px;
