@@ -228,4 +228,19 @@ footer {
 #form-signup {
    max-width: 400px;
    position: absolute;
+   margin-top: 10%;
+   margin-left: 10%;
+   text-align: left;
+   background-color: rgb(255, 255, 255, 0.7);
+   padding: 30px;
 }
+
+#form-signup h2 {
+    font-family: 'Noto Sans', sans-serif;
+    text-transform: uppercase;
+}
+
+#form-signup label {
+    font-family: 'Work Sans', sans-serif;
+}
+
