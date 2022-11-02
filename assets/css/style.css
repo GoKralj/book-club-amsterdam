@@ -229,7 +229,7 @@ footer {
    max-width: 400px;
    position: absolute;
    margin-top: 10%;
-   margin-left: 10%;
+   margin-left: 40%;
    text-align: left;
    background-color: rgb(255, 255, 255, 0.7);
    padding: 30px;
@@ -244,3 +244,10 @@ footer {
     font-family: 'Work Sans', sans-serif;
 }
 
+#join-button {
+    margin-top: 10px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+    font-weight: bold;
+}
