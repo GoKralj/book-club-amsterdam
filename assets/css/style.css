@@ -125,8 +125,6 @@ body h1 {
         flex:3;
     }
 
-   
-
     .aside2 {
         order:3;
     }
@@ -146,21 +144,16 @@ body h1 {
     }
 
     .aside2 {
-        order:3;
+        order:2;
     }
 
     .main {
-        order:2;
+        order:4;
     }
 
     .footer {
         order:4;
     }
-
-    .main {
-        font-size:100%;
-    }
-
 }
 
 
