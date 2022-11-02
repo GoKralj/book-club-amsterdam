@@ -124,8 +124,25 @@ body h1 {
         flex:3;
     }
 
-    .nav {
-        order:1;}
+   
+
+    .aside2 {
+        order:3;
+    }
+
+    .main {
+        order:3;
+    }
+
+    .footer {
+        order:4;
+    }
+}
+
+@media all and (mind-width:600px){
+    .main {
+        flex:3;
+    }
 
     .aside2 {
         order:3;
@@ -138,12 +155,7 @@ body h1 {
     .footer {
         order:4;
     }
-}
 
-@media all and (mind-width:600px){
-    .main {
-        flex:1;
-    }
 }
 
 
