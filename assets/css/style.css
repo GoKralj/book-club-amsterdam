@@ -96,19 +96,19 @@
     float:left;
     margin-left:30px;
     border: 2px white solid;
-    box-sizing: border-box;
+    
 }
 
 .aside2 div h4 {
     font-family: 'Work Sans', sans-serif;
-    font-size: 150%;
+    font-size: 100%;
 
 }
 
 .aside2 div h3 {
     font-family: 'Noto Sans', sans-serif;
     text-transform: uppercase;
-    font-size: 200%;
+    font-size: 100%;
 
 }
 
@@ -162,6 +162,7 @@ body h1 {
 
     .aside2 {
         order:3;
+        box-sizing: border-box;
     }
 
     .main {
