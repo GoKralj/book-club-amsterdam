@@ -177,6 +177,11 @@ body h1 {
         font-size:16px;
     }
 
+    .footer ul {
+        font-size: 10px;
+        margin-left: -38px;
+    }
+
     .main {
         order:3;
     }
