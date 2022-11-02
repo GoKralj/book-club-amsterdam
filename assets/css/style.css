@@ -157,7 +157,7 @@ body h1 {
 @media all and (max-width:630px) {
     .main {
         flex:3;
-        font-size: 100%;
+        font-size:110%;
     }
 
     .aside2 {
@@ -177,14 +177,6 @@ body h1 {
     }
 
 }
-
-@media all and (max-width:750px) {
-    
-#form-signup {
-    margin-left:5%;
-}
-}
-
 /* main cover text */
 
 #cover-text, #cover-text h2 {
