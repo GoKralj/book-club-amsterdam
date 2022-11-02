@@ -213,3 +213,18 @@ footer {
 #gallery>img {
     width: 100%;
 }
+
+
+/* form styling */
+
+#form-section {
+    clear: left;
+    background: url('../images/signup-form-background.jpg');
+    min-height: 900px;
+    background-size: cover;
+    background-position: center;
+}
+
+#form-signup {
+   
+}
