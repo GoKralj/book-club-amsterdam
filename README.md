@@ -27,6 +27,8 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
  - Main also provides user with pricing for monthly fee and what is included 
  - Later in the page locations will feature which library are listed
 
+ ![responsive](assets/images/read-me/main.PNG)
+
  ### Aside 
 
  - Aside is structured into 3 boxes
