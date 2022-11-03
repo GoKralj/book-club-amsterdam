@@ -102,7 +102,13 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 
 ## Deployment 
 
-- CHECK WITH SARAH 
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Main Branch
+  - Once the Main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - I then had to wait a few minutes until the site was fully deployed and it was ready.
+
+The live link can be found here - [Bookclub_Amsterdam](https://gokralj.github.io/book-club-amsterdam/signup.html)
 
 
 ### Content 
@@ -114,3 +120,4 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 ### Media 
 
 - All the images on this page were provided by [Pexels](https://www.pexels.com/)
+
