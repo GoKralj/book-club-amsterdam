@@ -110,3 +110,7 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 - Main text was written by developer
 - Icons for the nav bar and footer were taken from [Font Awesome](https://fontawesome.com/)
 - Map links were taken from [Google](https://google.com)
+
+### Media 
+
+- All the images on this page were provided by [Pexels](https://www.pexels.com/)
