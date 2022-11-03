@@ -18,6 +18,8 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
  - This bar will allow user to jump between pages easily
  - Nav bar is applied to all pages 
 
+ ![responsive](assets/images/read-me/nav-bar.PNG)
+
  ### Main
 
  - Main section contains inviting image of a group with books 
