@@ -86,4 +86,5 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 
 ## Lighthouse Testing
 
-- 
+## Home Page
+![Home](assets/images/read-me/lighthouse-home.PNG)
