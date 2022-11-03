@@ -11,7 +11,6 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 # Features
 
 ## Home ## 
-<hr>
 
 ### Navigation bar 
 
@@ -39,3 +38,15 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 - Links are shown as logos of each social media 
 - Footer is consistant troughout the website
 
+## Gallery 
+
+- Gallery provides user with beatifuly selected images of different readers 
+- Gallery also features photographs of libraries mentioned
+- Gallery is design to be big and clear 
+- Layout has been kept in 2 columns to accomandate size
+
+## Locations 
+
+- Locations page aims to direct user to 3 main libraries also listed on home page
+- It is a clear design with heading followed by google map link window
+- Location on map is pinned for each location individually 
