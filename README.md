@@ -59,7 +59,7 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 - It is a clear design with heading followed by google map link window
 - Location on map is pinned for each location individually 
 
-![responsive](assets/images/read-me/)
+![responsive](assets/images/read-me/locations.PNG)
 
 ## Sign up
 
