@@ -10,9 +10,7 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 
 # Features
 
-## Home ## 
-
-### Navigation bar 
+## Navigation bar 
 
  - Navigation bar consist of links to Home, Gallery, Locations and Sign up form.
  - This bar will allow user to jump between pages easily
@@ -20,7 +18,7 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 
  ![responsive](assets/images/read-me/nav-bar.PNG)
 
- ### Main
+ ## Main
 
  - Main section contains inviting image of a group with books 
  - Main provides necessary information on what the page is 
@@ -29,7 +27,7 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 
  ![responsive](assets/images/read-me/main.PNG)
 
- ### Aside 
+ ## Aside 
 
  - Aside is structured into 3 boxes
  - Each box provides user with information on time and location for book club meetings
@@ -37,12 +35,14 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 
  ![responsive](assets/images/read-me/aside.PNG)
 
- ### Footer 
+ ## Footer 
 
 - Footer features links to socail media
 - This invites user to seek more information according to prefered platform
 - Links are shown as logos of each social media 
 - Footer is consistant troughout the website
+
+![responsive](assets/images/read-me/footer.PNG)
 
 ## Gallery 
 
@@ -51,11 +51,15 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 - Gallery is design to be big and clear 
 - Layout has been kept in 2 columns to accomandate size
 
+![responsive](assets/images/read-me/gallery.PNG)
+
 ## Locations 
 
 - Locations page aims to direct user to 3 main libraries also listed on home page
 - It is a clear design with heading followed by google map link window
 - Location on map is pinned for each location individually 
+
+![responsive](assets/images/read-me/)
 
 ## Sign up
 
