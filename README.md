@@ -94,3 +94,19 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 ![Locations](assets/images/read-me/lighthouse-locations.PNG)
 # Sign up
 ![SignUp](assets/images/read-me/lighthouse-signup.PNG)
+
+### Unfixed Bugs 
+
+- I would like to resolve responsivness on sign up form, image slows it down
+
+
+## Deployment 
+
+- CHECK WITH SARAH 
+
+
+### Content 
+
+- Main text was written by developer
+- Icons for the nav bar and footer were taken from [Font Awesome](https://fontawesome.com/)
+- Map links were taken from [Google](https://google.com)
