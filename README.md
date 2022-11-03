@@ -8,6 +8,27 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 
 ![responsive](assets/images/read-me/ami-responsive.webp)
 
-## Features
+# Features
 
+## Navigation bar 
 
+ - Navigation bar consist of links to Home, Gallery, Locations and Sign up form.
+ - This bar will allow user to jump between pages easily
+ - Nav bar is applied to all pages 
+
+ ## Main
+
+ - Main section contains inviting image of a group with books 
+ - Main provides necessary information on what the page is 
+ - Main also provides user with pricing for monthly fee and what is included 
+ - Later in the page locations will feature which library are listed
+
+ ## Aside 
+
+ - Aside is structured into 3 boxes
+ - Each box provides user with information on time and location for book club meetings
+ - Background image features one of those libraries 
+
+ ## Footer 
+
+- 
