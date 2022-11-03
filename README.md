@@ -31,4 +31,7 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 
  ## Footer 
 
-- 
+- Footer features links to socail media
+- This invites user to seek more information according to prefered platform
+- Links are shown as logos of each social media 
+- Footer is consistant troughout the website
