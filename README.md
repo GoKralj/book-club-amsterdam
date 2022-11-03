@@ -131,3 +131,8 @@ I used the below sites to help me design and style my site.
 - References for Flex Box
   - https://www.w3schools.com/cssref/pr_class_display.asp
   - https://www.youtube.com/watch?v=RSIclWvNTdQ
+
+
+## Disclaimer 
+
+- This site is for educations purposes only!
