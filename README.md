@@ -50,3 +50,11 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 - Locations page aims to direct user to 3 main libraries also listed on home page
 - It is a clear design with heading followed by google map link window
 - Location on map is pinned for each location individually 
+
+## Sign up
+
+- Sign up page features background of a book 
+- Form is allocated to the left of the screen freeing the main image 
+- Form requires name, last name and email address
+- It reatures button with text "Join!"
+
