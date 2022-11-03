@@ -121,3 +121,13 @@ The live link can be found here - [Bookclub_Amsterdam](https://gokralj.github.io
 
 - All the images on this page were provided by [Pexels](https://www.pexels.com/)
 
+## Code 
+
+I used the below sites to help me design and style my site.
+
+- Reference for Align
+  - https://www.w3schools.com/css/css_align.asp
+
+- References for Flex Box
+  - https://www.w3schools.com/cssref/pr_class_display.asp
+  - https://www.youtube.com/watch?v=RSIclWvNTdQ
