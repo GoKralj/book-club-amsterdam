@@ -35,6 +35,8 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
  - Each box provides user with information on time and location for book club meetings
  - Background image features one of those libraries 
 
+ ![responsive](assets/images/read-me/aside.PNG)
+
  ### Footer 
 
 - Footer features links to socail media
