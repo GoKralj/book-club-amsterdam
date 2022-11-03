@@ -84,4 +84,6 @@ You can go to the website via direct link here: https://gokralj.github.io/book-c
 ![resposnive](assets/images/read-me/css-validator.PNG)
 
 
+## Lighthouse Testing
 
+- 
